@@ -1,6 +1,7 @@
 {
     "watch": [
-        "./"
+        "./",
+        "./mongoose_model"
     ],
     "ext": "ts,json",
     "ignore": [
